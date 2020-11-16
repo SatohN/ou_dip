@@ -6,3 +6,4 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_03.ipynb) [第3回：雑草認識システム](ou_dip_03.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_04.ipynb) [第4回：パノラマ画像を作ってみよう](ou_dip_04.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_05.ipynb) [第5回：空間フィルタリング](ou_dip_05.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_06.ipynb) [第6回：様々なフィルタリング実装の比較](ou_dip_06.ipynb)
