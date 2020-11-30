@@ -7,3 +7,4 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_04.ipynb) [第4回：パノラマ画像を作ってみよう（課題提出あり）](ou_dip_04.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_05.ipynb) [第5回：空間フィルタリング](ou_dip_05.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_06.ipynb) [第6回：様々なフィルタリング実装の比較](ou_dip_06.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_07.ipynb) [第7回：Wienerフィルタの実装（課題提出あり）](ou_dip_07.ipynb)
