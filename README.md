@@ -12,5 +12,6 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_08.ipynb) [第8回：2値画像処理](ou_dip_08.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_09.ipynb) [第9回：superpixel分割と領域統合のサンプル](ou_dip_09.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_10.ipynb) [第10回：特徴点対応付けと描画](ou_dip_10.ipynb)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_10.ipynb) [第11回：お手軽Bag of Visual Words](ou_dip_11.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_11.ipynb) [第11回：お手軽Bag of Visual Words (BoVW)](ou_dip_11.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/ou_dip/blob/master/ou_dip_12.ipynb) [第12回：お手軽Convolutional Neural Network (CNN)](ou_dip_12.ipynb)
 
